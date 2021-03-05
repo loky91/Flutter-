@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818091567275",
+    "firebase_url": "https://flash-chat-2a906.firebaseio.com",
+    "project_id": "flash-chat-2a906",
+    "storage_bucket": "flash-chat-2a906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818091567275:android:4567d61f310c3f6daaafee",
+        "android_client_info": {
+          "package_name": "co.lokendra.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818091567275-4hfd7mt355cib2mh2nsn1f5014qt56qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0fiIpzYqyVcNbmIQZEga9v0GAwrnK9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818091567275-4hfd7mt355cib2mh2nsn1f5014qt56qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
